@@ -9,7 +9,8 @@ def run():
     while numero>numero_aleatorio:
         print("Es un numero menor")
         numero=int(input("Por favor ingrese el numero que cree que es: "))
-    if numero==numero_aleatorio:
-        print("Acertaste correctamente")
+    print("Felicidades, acertaste correctamente ")
 run()
+
+   
 
